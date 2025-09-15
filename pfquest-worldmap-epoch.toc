@@ -1,0 +1,19 @@
+## Interface: 30300
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[World Map Pins]
+## Author: YourName
+## Notes: Adds continent and world map pin support to pfQuest
+## Version: 1.0.0
+## Dependencies: pfQuest-wotlk
+## OptionalDeps: pfQuest-epoch
+
+core.lua
+
+# Disabled for testing:
+# test-basic.lua
+# zones-epoch.lua
+# continent-pins-diag.lua
+# minimal-test.lua
+# core.lua
+# debug-simple.lua
+# coordinate-collector.lua
+# continent-pins-debug.lua
