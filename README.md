@@ -2,6 +2,11 @@
 
 A World of Warcraft addon that adds quest availability pins to continent maps for pfQuest-wotlk.
 
+### ☕ Support Development
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/trav346)
+
+If you find this addon helpful, consider [buying me a coffee](https://buymeacoffee.com/trav346) to support continued development!
+
 ## Features
 
 - **Continent Quest Pins**: Shows available quest locations on Eastern Kingdoms and Kalimdor continent maps
